@@ -1,2 +1,2 @@
-# Ayudante: A Deep Reinforcement Learning Approach to AssistPersistent Memory Programming at USENIX ATC 2021
+# Ayudante: A Deep Reinforcement Learning Approach to Assist Persistent Memory Programming (USENIX ATC 2021)
 ## The code is coming soon...
